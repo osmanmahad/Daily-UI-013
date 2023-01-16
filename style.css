@@ -111,9 +111,7 @@ hr {
   padding: 13px;
 }
 .bottom {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  margin-top: 90px;
 }
 .message {
   width: 100%;
@@ -135,6 +133,12 @@ hr {
 }
 
 @media only screen and (min-width: 992px) {
+  .bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
   .fa-arrow-left {
     display: none;
   }
