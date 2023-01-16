@@ -111,7 +111,8 @@ hr {
   padding: 13px;
 }
 .bottom {
-  margin-top: 200px;
+  margin-top: 100px;
+  margin-bottom: 30px;
 }
 .message {
   width: 100%;
