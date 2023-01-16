@@ -58,6 +58,7 @@ body {
   position: relative;
   float: right;
   color: white;
+  text-align: right;
 }
 
 .bubble_left {
